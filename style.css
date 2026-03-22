@@ -92,7 +92,6 @@ body {
 .botao-ia:active {
   transform: scale(0.99);
   opacity: 0.9;
-
 }
 
 .resposta-ia {
