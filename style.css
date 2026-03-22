@@ -85,6 +85,14 @@ body {
   color: #fff;
   background-color: rgb(14, 121, 252);
   border: none;
+  cursor: pointer;
+  transition: 200ms;
+}
+
+.botao-ia:active {
+  transform: scale(0.99);
+  opacity: 0.9;
+
 }
 
 .resposta-ia {
